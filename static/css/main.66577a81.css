@@ -287,8 +287,8 @@ button:disabled {
    gap: 15px;
    padding: 20px
 }
-.mode-screen h2{
-  margin: 15px 0 0 0; 
+.mode-screen > h2{
+  margin: 30px 0 0 0; 
 }
 
 
