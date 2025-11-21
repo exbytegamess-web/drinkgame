@@ -50,7 +50,6 @@ button:disabled {
    flex-wrap: wrap;
    gap: 15px;
    justify-content: center;
-   margin: 10px 0
 }
 
 .mode-btn {
@@ -288,6 +287,10 @@ button:disabled {
    gap: 15px;
    padding: 20px
 }
+.mode-screen h2{
+  margin: 15px 0 0 0; 
+}
+
 
 .title {
    color: var(--white);
